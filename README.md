@@ -1,5 +1,5 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=Rect&color=gradient&height=300&section=header&text=Welcome%20to%20HS%20GitHub&fontSize=65&animation=fadeIn"/>
-<p align="right"><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F6anghs&count_bg=%23D5B4B4&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+<img width=100% src="https://capsule-render.vercel.app/api?type=Rect&color=gradient&customColorList=16&height=300&section=header&text=Welcome%20to%20HS%20GitHub&fontSize=65&animation=fadeIn"/>
+<p align="right"><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F6anghs&count_bg=%2386A3B8&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
 
 ### Hi there 🏹
