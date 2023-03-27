@@ -18,7 +18,6 @@ I am Hyunsu Bang who is interested in <b>Web Development</b> from South Korea
   <img height=25 src="https://simpleicons.org/icons/html5.svg"> &nbsp;
   <img height=25 src="https://simpleicons.org/icons/css3.svg"> &nbsp;
   <img height=25 src="https://simpleicons.org/icons/javascript.svg"> &nbsp;
-  <img height=25 src="https://simpleicons.org/icons/jquery.svg">
 </p>
 
 #### Tools
