@@ -14,10 +14,9 @@ I am Hyunsu Bang who is interested in <b>Web Development</b> from South Korea
 <p>
   <img height=25 src="https://simpleicons.org/icons/openjdk.svg"> &nbsp;
   <img height=25 src="https://simpleicons.org/icons/oracle.svg"> &nbsp;
-  <img height=25 src="https://simpleicons.org/icons/spring.svg"> &nbsp;
+  <img height=25 src="https://simpleicons.org/icons/springboot.svg"> &nbsp;
   <img height=25 src="https://simpleicons.org/icons/html5.svg"> &nbsp;
   <img height=25 src="https://simpleicons.org/icons/css3.svg"> &nbsp;
-  <img height=25 src="https://simpleicons.org/icons/javascript.svg"> &nbsp;
 </p>
 
 #### Tools
