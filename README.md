@@ -3,7 +3,7 @@
 </p>
 
 ### Hi there 🏹
-I am a <b>web developer</b> from South Korea
+I am interested in Web Development
 
 ### Tech stack 📚
 #### Frameworks & Languages
@@ -18,7 +18,6 @@ I am a <b>web developer</b> from South Korea
 #### Tools
 <p>
   <img height=25 src="https://simpleicons.org/icons/eclipseide.svg"> &nbsp;
-  <img height=25 src="https://simpleicons.org/icons/visualstudiocode.svg"> &nbsp;
   <img height=25 src="https://simpleicons.org/icons/github.svg"> &nbsp;
   <img height=25 src="https://simpleicons.org/icons/sourcetree.svg"> &nbsp;
   <img height=25 src="https://simpleicons.org/icons/notion.svg"> &nbsp;
